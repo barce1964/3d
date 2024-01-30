@@ -104,7 +104,7 @@ body {
 	text-transform: none;
 	font-family: merriweather-italic-3d;
 	letter-spacing: normal;
-	font-size: calc(var(--index) * .73);
+	font-size: calc(var(--index) * .93);
 	line-height: 3;
 }
 
